@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalcularConsumo",
+            "request": "launch",
+            "mainClass": "CalcularConsumo",
+            "projectName": "ContaBancaria_3715a8cb"
+        },
+        {
+            "type": "java",
+            "name": "VerificacaoServico",
+            "request": "launch",
+            "mainClass": "VerificacaoServico",
+            "projectName": "ContaBancaria_3715a8cb"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
